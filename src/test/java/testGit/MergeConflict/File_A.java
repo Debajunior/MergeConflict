@@ -8,7 +8,7 @@ public class File_A {
 	public void method1()
 	{
 		
-	System.out.println("Print method1");	
+	System.out.println("Print method1 under File_A");	
 		
 	}
 
