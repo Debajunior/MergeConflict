@@ -2,13 +2,13 @@ package testGit.MergeConflict;
 
 import org.testng.annotations.Test;
 
-public class File_A {
+public class File_C {
 	
 	@Test
-	public void method1()
+	public void method3()
 	{
 		
-	System.out.println("Print method1");	
+	System.out.println("Print method3");	
 		
 	}
 
